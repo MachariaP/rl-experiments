@@ -1,0 +1,83 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+rl_env/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (can be large)
+*.pth
+*.pkl
+*.zip
+models/
+
+# Logs and monitoring
+logs/
+tensorboard_logs/
+tb_logs/
+wandb/
+
+# Temporary files
+tmp/
+.tmp/
+*.tmp
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Screenshots and videos
+*.png
+*.jpg
+*.gif
+*.mp4
+*.avi
+
+# Data files
+data/
+datasets/
+
+# Experiment results
+results/
+experiments/
+outputs/
